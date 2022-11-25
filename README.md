@@ -1,6 +1,6 @@
 
 
-![EduKit](https://socialify.git.ci/OsmiumNetwork/EduKit-New/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![EduKit-New](https://socialify.git.ci/OsmiumNetwork/EduKit-New/image?description=1&forks=1&issues=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
 
 </div>
 
@@ -12,7 +12,7 @@
                
 <a href="https://replit.com/new/github/OsmiumNetwork/EduKit-New"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
 <a href="https://railway.app/new/template/ML8TSJ?referralCode=ovE96c"><img height="30px" src="https://railway.app/button.svg"><img></a>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/OsmiumNetwork/EduKit&branch=main&name=edukit"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/OsmiumNetwork/EduKit-New&branch=main&name=edukit"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
 </div>
 
 ## Setup via Terminal
