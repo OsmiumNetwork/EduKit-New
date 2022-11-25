@@ -25,7 +25,6 @@ $ npm i
 $ cd ..
 $ npm i ./Ultraviolet-Static
 $ npm start
-
 ```
 <div align="center">
          <h2> Contributing</h2>
