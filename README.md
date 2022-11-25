@@ -15,13 +15,13 @@
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/OsmiumNetwork/EduKit&branch=main&name=edukit"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
 </div>
 
-## Setup
+## Setup via Terminal
 ```
 $ git clone https://github.com/OsmiumNetwork/EduKit-New
-```
-> Skip this step if you deployed via one of the buttons above
-```
 $ cd EduKit-New
+```
+> Skip the first two steps if you deployed via one of the buttons above
+```
 $ npm i
 $ cd Ultraviolet-Static
 $ npm i
