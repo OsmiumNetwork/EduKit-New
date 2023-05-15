@@ -1,28 +1,22 @@
 {
-  "name": "uv-app",
+  "name": "edukit-new",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Working EduKit, using the most recent version of Ultraviolet. Disguised as a calculator.",
   "type": "module",
   "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=16.0.0"
+    "npm": ">=8.0.0",
+    "node": ">=18.0.0"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "proxy"
   ],
-  "author": "",
-  "license": "GPL-3.0-or-later",
+  "author": "OsmiumNetwork",
+  "license": "MIT",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^1.0.3",
     "@tomphttp/bare-server-node": "^1.2.2",
-    "express": "^4.18.2",
-    "ultraviolet-static": "file:Ultraviolet-Static"
-  },
-  "devDependencies": {
-    "eslint": "^8.23.1",
-    "prettier": "^2.7.1"
+    "serve-static": "^1.15.0"
   }
 }

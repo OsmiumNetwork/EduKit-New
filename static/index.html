@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:600,700" rel="stylesheet">
     <title>Calculator for school
     </title>
@@ -37,43 +37,22 @@
           <button class="number" id="1" onclick="reset()">1</button>
           <button class="number" id="2" onclick="reset()">2</button>
           <button class="number" id="3" onclick="reset()">3</button>
-          <button class="operator" id="+" onclick="d2()">+</button>
+          <button class="operator" id="+">+</button>
           <button class="zero" id="0" onclick="reset()">0</button>
           
-          <button class="operator" id="=" onclick="detect()">=</button>
+          <button class="operator" id="=">=</button>
         </div>
       </div>
     </div>
-    <script src="script.js"></script>
     <script>
       var count = 0;
       var c = 0;
-      function detect() {
-        count += 1;
-        c = 0;
-        
-        if (count == 3) {
-          count = 0;
-          openInNewTab(window.location.href + "/search.html");
-        };
-      };
-      
-      function d2(){
-       count = 0;
-        c += 1;
-        
-        if (c===3){
-         c=0;
-          rr();
-        }
-      }
       
       function reset() {
         count = 0;
         c = 0;
       };
-      
     </script>
-    <script src="cloak.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>

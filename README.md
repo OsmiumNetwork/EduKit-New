@@ -1,5 +1,3 @@
-
-
 ![EduKit-New](https://socialify.git.ci/OsmiumNetwork/EduKit-New/image?description=1&forks=1&issues=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
 
 </div>
@@ -10,7 +8,7 @@
          <br>
          <br>
                
-<a href="https://replit.com/new/github/OsmiumNetwork/EduKit-New"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
+<a href="https://replit.com/new/github/OsmiumNetwork/EduKit-New"><img height="30px" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"><img></a>
 <a href="https://railway.app/new/template/ML8TSJ?referralCode=ovE96c"><img height="30px" src="https://railway.app/button.svg"><img></a>
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/OsmiumNetwork/EduKit-New&branch=main&name=edukit"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
 </div>
@@ -23,10 +21,6 @@ $ cd EduKit-New
 > Skip the first two steps if you deployed via one of the buttons above
 ```
 $ npm i
-$ cd Ultraviolet-Static
-$ npm i
-$ cd ..
-$ npm i ./Ultraviolet-Static
 $ npm start
 ```
 <div align="center">
@@ -34,19 +28,13 @@ $ npm start
 
 We are always looking for users to help contribute to the project! To contribute, just make a pull request. 
 
-<h2> Discord Server</h2>
-
+<h2>Discord Server</h2>
 Feel Free to join us :D
 
 [![Join us on Discord](https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark)](https://discord.gg/PrWzd9eBQx)
 
-
 ## Credits
-
-[Caracal.js](https://github.com/caracal-js) - Creator of UV 
-<br></br>
+[Caracal.js](https://github.com/caracal-js) - Creator of UV
 [OsmiumNetwork](https://github.com/OsmiumNetwork) - Reskinners 
-<br></br>
 [TompHTTP](https://github.com/tomphttp) - Bare Node Server
 </div>
-

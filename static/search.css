@@ -10,7 +10,8 @@
 }
 
 * {
-  font-family: Roboto;
+  font-family: "Roboto";
+  color: white;
 }
 
 body {
@@ -24,23 +25,16 @@ body {
   animation-fill-mode: forwards;
 }
 
-.fa-magnifying-glass {
-  color: white;
-}
-
 .flex-center {
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 .header-center {
   align-items: center;
   flex-direction: column;
   margin-top: 10%;
-}
-
-.left-margin {
-  margin: 0px 16px;
 }
 
 #error {
@@ -50,38 +44,11 @@ body {
 
 #error-code {
   font-size: 12px;
-  color: #fff;
   font-family: "Courier New", Courier, monospace;
-}
-
-#register-sw {
-  color: white;
-  background: #555555;
-  cursor: pointer;
-  outline: none;
-  border: none;
-  border-radius: 6px;
-  padding: 16px 20px;
-  line-height: 16px;
-  display: none;
-}
-
-#register-sw:active {
-  background: #333333;
-}
-
-#register-sw.show {
-  display: block;
 }
 
 .logo {
   width: 150px;
-}
-
-.logo-wrapper .text {
-  font-size: 75px;
-  font-family: "Roboto";
-  color: #fff;
 }
 
 .logo-wrapper h1 {
@@ -98,15 +65,10 @@ footer {
   align-items: center;
 }
 
-footer a,
-footer span {
+footer a {
   margin: 0 15px;
   text-decoration: none;
-  color: #fff;
   font-size: 15px;
-}
-
-footer a {
   cursor: pointer;
 }
 
